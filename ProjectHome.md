@@ -1,0 +1,1 @@
+you can consider this platform as middleware or OS. Software developed using it can be ported to any OS, such as windows,linux, and so on.
